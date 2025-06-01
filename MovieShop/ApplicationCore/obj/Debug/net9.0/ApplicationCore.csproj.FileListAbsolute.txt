@@ -1,0 +1,12 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/bin/Debug/net9.0/ApplicationCore.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/bin/Debug/net9.0/ApplicationCore.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/bin/Debug/net9.0/ApplicationCore.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/obj/Debug/net9.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/obj/Debug/net9.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/obj/Debug/net9.0/ApplicationCore.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/obj/Debug/net9.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/obj/Debug/net9.0/ApplicationCore.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/obj/Debug/net9.0/ApplicationCore.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/obj/Debug/net9.0/refint/ApplicationCore.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/obj/Debug/net9.0/ApplicationCore.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/Antra_movie/MovieShop/ApplicationCore/obj/Debug/net9.0/ref/ApplicationCore.dll
